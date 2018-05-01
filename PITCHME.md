@@ -135,3 +135,10 @@
 
 * [pass parameters between navigations](https://reactnavigation.org/docs/params.html)
 * [acceess navigation props from component](https://reactnavigation.org/docs/connecting-navigation-prop.html)
+
++++
+
+### Transitioner
+
+* [doc](https://reactnavigation.org/docs/transitioner.html)
+* [Custom Transition](https://medium.com/async-la/custom-transitions-in-react-navigation-2f759408a053)
