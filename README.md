@@ -1,4 +1,9 @@
-### Refs
+## in GitPitch
+
+[slides in gitpitch](https://gitpitch.com/ichi1234567/migrate-experimetal-to-react-navigation)
+
+
+## Other References
 
 * [react-navigation docs](https://reactnavigation.org/docs/getting-started.html)
 * [react-navigation-experimental-navigation](https://github.com/aksonov/react-native-experimental-navigation)
