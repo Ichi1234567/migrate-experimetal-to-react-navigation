@@ -1,4 +1,4 @@
-# Migrate Experimental to React-Navigation
+### Migrate Experimental to React-Navigation
 
 ichi
 
@@ -8,7 +8,7 @@ ichi
 
 ### Introduction
 
-routing image
+![header-style](assets/images/routing.png)
 
 ---?code=codes/expe1.js
 
@@ -42,7 +42,7 @@ routing image
 
 @title[Migrate]
 
-### Install React-Navigation(2.0.0-rc2)
+### Install [React-Navigation](https://reactnavigation.org/)(2.0.0-rc2)
 
 * Required
   * react-native-vector-icons
@@ -78,12 +78,12 @@ routing image
 
 * [handling iphone x](https://reactnavigation.org/docs/handling-iphonex.html)
   * [SafeAreaView example](https://github.com/react-navigation/react-navigation/tree/master/examples/SafeAreaExample)
-![header-style](assets/images/android-header.png)
 
 +++
 
 ### Android
 
+![header-style](assets/images/android-header.png)
 * [back button issue](https://github.com/react-navigation/react-navigation/issues/1214)
 * [header style](https://github.com/react-navigation/react-navigation/issues/12)
 * splash screen
